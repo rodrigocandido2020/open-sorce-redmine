@@ -7,8 +7,11 @@ Algo que tornou essa experiência ainda mais interessante foi o aprendizado envo
 Continuo comprometido em aprender, colaborar e compartilhar conhecimento, e essa jornada só está começando.
 
 [Link da tarefa do Redmine](https://www.redmine.org/issues/41249)
+
 [Link do commit jstoolbar-pt-br.js](https://github.com/redmine/redmine/commit/0078387dbc5e292661789234b2ee5489732a5af6)
+
 [Link do commit pt-BR.yml](https://github.com/redmine/redmine/commit/0078387dbc5e292661789234b2ee5489732a5af6)
+
 ### Arquivo Git Patch
 [arquivo diff](update-pt-br-translation-git.diff)
 
