@@ -10,7 +10,7 @@ Continuo comprometido em aprender, colaborar e compartilhar conhecimento, e essa
 
 [Link do commit jstoolbar-pt-br.js](https://github.com/redmine/redmine/commit/0078387dbc5e292661789234b2ee5489732a5af6)
 
-[Link do commit pt-BR.yml](https://github.com/redmine/redmine/commit/0078387dbc5e292661789234b2ee5489732a5af6)
+[Link do commit pt-BR.yml](https://github.com/redmine/redmine/commit/dac856e6d4964fb5d218ce36cf1b3618ebaffe5f)
 
 ### Arquivo Git Patch
 [arquivo diff](update-pt-br-translation-git.diff)
